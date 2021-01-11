@@ -1,0 +1,37 @@
+table,th,td{
+	border : 1px solid #ddd;
+	border-collapse: collapse;
+	background-color: white;
+	padding: 3px;
+	text-align: left;
+}
+
+table{
+	width: 100%;
+}
+
+div{
+	background-color: #f9f9f9;
+	border-radius: 5px;
+	padding: 20px;
+	margin: 10px 17%;
+}
+
+a{
+	margin-left: 5px;
+	color: black; 
+}
+
+.alterTable td{
+	width: 50%;
+}
+
+span{
+	float: right;
+}
+
+input{
+	width: 99%;
+	padding : 2px;
+	border : none;
+}
