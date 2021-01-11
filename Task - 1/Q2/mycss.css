@@ -1,0 +1,54 @@
+table,th,td{
+	border : 1px solid #ddd;
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: center;
+}
+
+table{
+	width: 100%;
+}
+
+#secondColumn{
+	width : 70%;
+}
+
+.action{
+	text-align: left;
+	padding-left: 15px;;
+	width: 20%;
+}
+
+div{
+	display: inline-block;
+	float: left;
+	margin: 10px;
+	color: gray;
+	font-weight: bold;
+}
+
+input{
+	border : 1px solid #ccc;
+	border-radius: 4px;
+	padding: 3px;
+	width: 90%;
+}
+
+.content{
+	background-color: #f9f9f9;
+	width: 400px;
+}
+
+.icon{
+	width: 23px;
+	height: 23px;
+	padding-left: 5px;
+	margin-left: 3px; 
+	font-size: 18px;
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+	border: none;
+	border-radius: 13px;
+	cursor: pointer;
+}
